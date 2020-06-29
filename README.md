@@ -1,2 +1,2 @@
-# Basic-Chatbot
+# Juno Chatbot
 Sentiment analysis chatbot
