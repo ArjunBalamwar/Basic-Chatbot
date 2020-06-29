@@ -1,2 +1,2 @@
 # Basic-Chatbot
-sentiment analysis chatbot
+Sentiment analysis chatbot
